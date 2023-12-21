@@ -1,3 +1,3 @@
 # Computer-Vision
 
-The course's Assignmentns and Projects
+The course's Assignments and Projects
